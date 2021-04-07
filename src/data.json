@@ -14,7 +14,7 @@
             "image" : "/images/dress2.jpg",
             "description" : "about dress one",
             "price" : 39,
-            "availableSizes" : ["XL", "XXL"] 
+            "availableSizes" : ["XL", "L", "S"] 
         },
         {
             "_id" : "dress3",
@@ -22,7 +22,7 @@
             "image" : "/images/dress3.jpg",
             "description" : "about dress one",
             "price" : 79,
-            "availableSizes" : ["XL", "XXL", "VL"] 
+            "availableSizes" : ["XS", "XXL", "VL"] 
         },
         {
             "_id" : "dress4",
@@ -46,7 +46,7 @@
             "image" : "/images/dress6.jpg",
             "description" : "about dress one",
             "price" : 89,
-            "availableSizes" : ["XL", "XXL"] 
+            "availableSizes" : ["XL", "XXL", "M"] 
         }
     ]
 }
